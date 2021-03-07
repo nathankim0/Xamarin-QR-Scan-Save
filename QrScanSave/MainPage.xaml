@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="QrScanSave.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:zxing="clr-namespace:ZXing.Net.Mobile.Forms;assembly=ZXing.Net.Mobile.Forms">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <zxing:ZXingScannerView
+            x:Name="_scanView"
+            Grid.Row="0"
+            HeightRequest="300"
+            IsScanning="true"
+            OnScanResult="Handle_OnScanResult" />
+
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Editor
+                x:Name="editor"
+                TextChanged="editor_TextChanged"
+                VerticalOptions="StartAndExpand" />
+            <Button
+                Grid.Row="1"
+                BackgroundColor="LightBlue"
+                Clicked="Button_Clicked"
+                Text="복사"
+                VerticalOptions="EndAndExpand" />
+        </Grid>
+
+
+    </Grid>
+</ContentPage>

@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{FE33985A-7F45-42DA-8537-FBB6B8293439}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="QrScanSave/MainPage.xaml">
+    <Files>
+      <File FileName="QrScanSave/MainPage.xaml.cs" Line="43" Column="49" />
+      <File FileName="QrScanSave/MainPage.xaml" Line="19" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QrScanSave" expanded="True">
+            <Node name="QrScanSave" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="QrScanSave.Android" expanded="True">
+              <Node name="Packages" expanded="True" />
+            </Node>
+            <Node name="QrScanSave.iOS" expanded="True">
+              <Node name="Packages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.QrScanSave.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.QrScanSave.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2992795F-29A3-4D7C-BAB1-3442DC05E493" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

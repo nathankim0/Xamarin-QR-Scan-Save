@@ -1,0 +1,14 @@
+/Users/jinyeob/Projects/QrScanSave/QrScanSave/bin/Release/netstandard2.0/QrScanSave.deps.json
+/Users/jinyeob/Projects/QrScanSave/QrScanSave/bin/Release/netstandard2.0/QrScanSave.dll
+/Users/jinyeob/Projects/QrScanSave/QrScanSave/bin/Release/netstandard2.0/ref/QrScanSave.dll
+/Users/jinyeob/Projects/QrScanSave/QrScanSave/bin/Release/netstandard2.0/QrScanSave.pdb
+/Users/jinyeob/Projects/QrScanSave/QrScanSave/obj/Release/netstandard2.0/QrScanSave.csprojAssemblyReference.cache
+/Users/jinyeob/Projects/QrScanSave/QrScanSave/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/jinyeob/Projects/QrScanSave/QrScanSave/obj/Release/netstandard2.0/MainPage.xaml.g.cs
+/Users/jinyeob/Projects/QrScanSave/QrScanSave/obj/Release/netstandard2.0/QrScanSave.AssemblyInfoInputs.cache
+/Users/jinyeob/Projects/QrScanSave/QrScanSave/obj/Release/netstandard2.0/QrScanSave.AssemblyInfo.cs
+/Users/jinyeob/Projects/QrScanSave/QrScanSave/obj/Release/netstandard2.0/QrScanSave.csproj.CoreCompileInputs.cache
+/Users/jinyeob/Projects/QrScanSave/QrScanSave/obj/Release/netstandard2.0/XamlC.stamp
+/Users/jinyeob/Projects/QrScanSave/QrScanSave/obj/Release/netstandard2.0/QrScanSave.dll
+/Users/jinyeob/Projects/QrScanSave/QrScanSave/obj/Release/netstandard2.0/ref/QrScanSave.dll
+/Users/jinyeob/Projects/QrScanSave/QrScanSave/obj/Release/netstandard2.0/QrScanSave.pdb

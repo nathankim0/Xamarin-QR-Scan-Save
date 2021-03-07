@@ -1,0 +1,83 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=xamarin_start_wwan
+	/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
