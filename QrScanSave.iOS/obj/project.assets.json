@@ -1142,20 +1142,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/jinyeob/.nuget/packages/": {}
+    "/Users/nathan-kim/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/QrScanSave.iOS.csproj",
+      "projectUniqueName": "/Users/nathan-kim/Projects/Xamarin-QR-Scan-Save/QrScanSave.iOS/QrScanSave.iOS.csproj",
       "projectName": "QrScanSave.iOS",
-      "projectPath": "/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/QrScanSave.iOS.csproj",
-      "packagesPath": "/Users/jinyeob/.nuget/packages/",
-      "outputPath": "/Users/jinyeob/Projects/QrScanSave/QrScanSave.iOS/obj/",
+      "projectPath": "/Users/nathan-kim/Projects/Xamarin-QR-Scan-Save/QrScanSave.iOS/QrScanSave.iOS.csproj",
+      "packagesPath": "/Users/nathan-kim/.nuget/packages/",
+      "outputPath": "/Users/nathan-kim/Projects/Xamarin-QR-Scan-Save/QrScanSave.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/jinyeob/.config/NuGet/NuGet.Config"
+        "/Users/nathan-kim/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
@@ -1166,8 +1166,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/jinyeob/Projects/QrScanSave/QrScanSave/QrScanSave.csproj": {
-              "projectPath": "/Users/jinyeob/Projects/QrScanSave/QrScanSave/QrScanSave.csproj"
+            "/Users/nathan-kim/Projects/Xamarin-QR-Scan-Save/QrScanSave/QrScanSave.csproj": {
+              "projectPath": "/Users/nathan-kim/Projects/Xamarin-QR-Scan-Save/QrScanSave/QrScanSave.csproj"
             }
           }
         }

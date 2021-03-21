@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jinyeob/Projects/QrScanSave/QrScanSave.Android/QrScanSave.Android.csproj": {}
+    "/Users/nathan-kim/Projects/Xamarin-QR-Scan-Save/QrScanSave.Android/QrScanSave.Android.csproj": {}
   },
   "projects": {
-    "/Users/jinyeob/Projects/QrScanSave/QrScanSave.Android/QrScanSave.Android.csproj": {
+    "/Users/nathan-kim/Projects/Xamarin-QR-Scan-Save/QrScanSave.Android/QrScanSave.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jinyeob/Projects/QrScanSave/QrScanSave.Android/QrScanSave.Android.csproj",
+        "projectUniqueName": "/Users/nathan-kim/Projects/Xamarin-QR-Scan-Save/QrScanSave.Android/QrScanSave.Android.csproj",
         "projectName": "QrScanSave.Android",
-        "projectPath": "/Users/jinyeob/Projects/QrScanSave/QrScanSave.Android/QrScanSave.Android.csproj",
-        "packagesPath": "/Users/jinyeob/.nuget/packages/",
-        "outputPath": "/Users/jinyeob/Projects/QrScanSave/QrScanSave.Android/obj/",
+        "projectPath": "/Users/nathan-kim/Projects/Xamarin-QR-Scan-Save/QrScanSave.Android/QrScanSave.Android.csproj",
+        "packagesPath": "/Users/nathan-kim/.nuget/packages/",
+        "outputPath": "/Users/nathan-kim/Projects/Xamarin-QR-Scan-Save/QrScanSave.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "/Users/jinyeob/.config/NuGet/NuGet.Config"
+          "/Users/nathan-kim/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "monoandroid90"
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "/Users/jinyeob/Projects/QrScanSave/QrScanSave/QrScanSave.csproj": {
-                "projectPath": "/Users/jinyeob/Projects/QrScanSave/QrScanSave/QrScanSave.csproj"
+              "/Users/nathan-kim/Projects/Xamarin-QR-Scan-Save/QrScanSave/QrScanSave.csproj": {
+                "projectPath": "/Users/nathan-kim/Projects/Xamarin-QR-Scan-Save/QrScanSave/QrScanSave.csproj"
               }
             }
           }
@@ -52,17 +52,17 @@
         }
       }
     },
-    "/Users/jinyeob/Projects/QrScanSave/QrScanSave/QrScanSave.csproj": {
+    "/Users/nathan-kim/Projects/Xamarin-QR-Scan-Save/QrScanSave/QrScanSave.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jinyeob/Projects/QrScanSave/QrScanSave/QrScanSave.csproj",
+        "projectUniqueName": "/Users/nathan-kim/Projects/Xamarin-QR-Scan-Save/QrScanSave/QrScanSave.csproj",
         "projectName": "QrScanSave",
-        "projectPath": "/Users/jinyeob/Projects/QrScanSave/QrScanSave/QrScanSave.csproj",
-        "packagesPath": "/Users/jinyeob/.nuget/packages/",
-        "outputPath": "/Users/jinyeob/Projects/QrScanSave/QrScanSave/obj/",
+        "projectPath": "/Users/nathan-kim/Projects/Xamarin-QR-Scan-Save/QrScanSave/QrScanSave.csproj",
+        "packagesPath": "/Users/nathan-kim/.nuget/packages/",
+        "outputPath": "/Users/nathan-kim/Projects/Xamarin-QR-Scan-Save/QrScanSave/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jinyeob/.config/NuGet/NuGet.Config"
+          "/Users/nathan-kim/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -115,7 +115,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }

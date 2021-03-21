@@ -702,19 +702,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/jinyeob/.nuget/packages/": {}
+    "/Users/nathan-kim/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jinyeob/Projects/QrScanSave/QrScanSave/QrScanSave.csproj",
+      "projectUniqueName": "/Users/nathan-kim/Projects/Xamarin-QR-Scan-Save/QrScanSave/QrScanSave.csproj",
       "projectName": "QrScanSave",
-      "projectPath": "/Users/jinyeob/Projects/QrScanSave/QrScanSave/QrScanSave.csproj",
-      "packagesPath": "/Users/jinyeob/.nuget/packages/",
-      "outputPath": "/Users/jinyeob/Projects/QrScanSave/QrScanSave/obj/",
+      "projectPath": "/Users/nathan-kim/Projects/Xamarin-QR-Scan-Save/QrScanSave/QrScanSave.csproj",
+      "packagesPath": "/Users/nathan-kim/.nuget/packages/",
+      "outputPath": "/Users/nathan-kim/Projects/Xamarin-QR-Scan-Save/QrScanSave/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jinyeob/.config/NuGet/NuGet.Config"
+        "/Users/nathan-kim/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -767,7 +767,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
       }
     }
   }

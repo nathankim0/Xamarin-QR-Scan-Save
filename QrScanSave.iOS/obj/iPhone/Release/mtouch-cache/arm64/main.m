@@ -1,3 +1,10 @@
+extern "C" void xamarin_create_classes();
+
+static void xamarin_invoke_registration_methods ()
+{
+	xamarin_create_classes();
+}
+
 #include "xamarin/xamarin.h"
 
 extern void *mono_aot_module_QrScanSave_iOS_info;
@@ -74,11 +81,10 @@ void xamarin_register_assemblies_impl ()
 
 }
 
-extern "C" void xamarin_create_classes();
 void xamarin_setup_impl ()
 {
 	mono_jit_set_aot_mode (MONO_AOT_MODE_FULL);
-	xamarin_create_classes();
+	xamarin_invoke_registration_methods ();
 
 	mono_dllmap_insert (NULL, "System.Native", NULL, "__Internal", NULL);
 	mono_dllmap_insert (NULL, "System.Security.Cryptography.Native.Apple", NULL, "__Internal", NULL);

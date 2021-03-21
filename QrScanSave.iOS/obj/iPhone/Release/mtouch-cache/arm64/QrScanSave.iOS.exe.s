@@ -327,7 +327,7 @@ runtime_version:
 .section __TEXT, __const
 	.align 2
 assembly_guid:
-	.asciz "715669E9-FCC3-4676-A42A-7302F899B0ED"
+	.asciz "0F28EFAD-B8DF-4563-9E9F-0DACE1A055C2"
 .section __TEXT, __const
 	.align 2
 assembly_name:
@@ -421,7 +421,7 @@ _mono_aot_file_info:
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
-	.byte 106,194,77,250,19,239,108,133,233,110,195,168,181,68,137,133
+	.byte 146,54,74,184,38,238,90,241,245,152,48,15,187,221,25,14
 	.globl _mono_aot_module_QrScanSave_iOS_info
 	.align 3
 _mono_aot_module_QrScanSave_iOS_info:

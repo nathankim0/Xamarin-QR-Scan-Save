@@ -28774,7 +28774,7 @@ runtime_version:
 .section __TEXT, __const
 	.align 2
 assembly_guid:
-	.asciz "79B7D3A4-78FC-4DDA-9928-8C4425CEF2CD"
+	.asciz "F57E1D40-D12B-4B0F-9EE9-1FD28F5F6791"
 .section __TEXT, __const
 	.align 2
 assembly_name:
@@ -28868,7 +28868,7 @@ _mono_aot_file_info:
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
-	.byte 228,106,230,174,179,65,0,204,215,59,15,167,168,135,207,147
+	.byte 150,66,67,175,39,91,219,249,247,92,53,169,208,168,164,40
 	.globl _mono_aot_module_OpenTK_1_0_info
 	.align 3
 _mono_aot_module_OpenTK_1_0_info:

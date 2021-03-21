@@ -5,6 +5,7 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:zxing="clr-namespace:ZXing.Net.Mobile.Forms;assembly=ZXing.Net.Mobile.Forms">
 
+    <ScrollView>
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto" />
@@ -18,23 +19,20 @@
             IsScanning="true"
             OnScanResult="Handle_OnScanResult" />
 
-        <Grid Grid.Row="1">
-            <Grid.RowDefinitions>
-                <RowDefinition Height="*" />
-                <RowDefinition Height="Auto" />
-            </Grid.RowDefinitions>
+        <StackLayout Grid.Row="1">
             <Editor
                 x:Name="editor"
+                BackgroundColor="LightGray"
                 TextChanged="editor_TextChanged"
-                VerticalOptions="StartAndExpand" />
+                VerticalOptions="FillAndExpand" />
             <Button
                 Grid.Row="1"
                 BackgroundColor="LightBlue"
                 Clicked="Button_Clicked"
                 Text="복사"
-                VerticalOptions="EndAndExpand" />
-        </Grid>
+                VerticalOptions="End" />
 
-
+            </StackLayout>
     </Grid>
+        </ScrollView>
 </ContentPage>
